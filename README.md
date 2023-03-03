@@ -1,11 +1,12 @@
-# leecode
+# leetcode
 leetcode for go
 
 
 # 说明
-刷题，保持写代码的手感
-编号.go 对应的是leetcode的题
-基本都有测试，具体在leetcode_test.go里
+
+1. 刷题，保持写代码的手感
+2. 编号.go 对应的是leetcode的题
+3. 基本都有测试，具体在leetcode_test.go里
 
 ## 集成了一些公共类
 目前包括：
