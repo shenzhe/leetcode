@@ -1,8 +1,9 @@
 # leecode
-leecode for go
+leetcode for go
 
 
 # 说明
+刷题，保持写代码的手感
 编号.go 对应的是leetcode的题
 基本都有测试，具体在leetcode_test.go里
 
